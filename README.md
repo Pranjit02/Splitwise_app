@@ -93,38 +93,26 @@ func main() {
 Summary of Bill Settlement for Dinner:
 Alice owes Bob: 30.00
 Alice owes Charlie: 30.00
-Bob owes Alice: 30.00
-Bob owes Charlie: 30.00
-Charlie owes Alice: 30.00
-Charlie owes Bob: 30.00
 
 Summary of Bill Settlement for Cruise:
-Alice owes Bob: 50.00
-Alice owes Charlie: 50.00
-Bob owes Alice: 50.00
+Alice owes Charlie: 30.00
+Bob owes Alice: 20.00
 Bob owes Charlie: 50.00
-Charlie owes Alice: 50.00
-Charlie owes Bob: 50.00
 
 Summary of Bill Settlement for Breakfast:
-Alice owes Bob: 25.00
-Alice owes Charlie: 25.00
-Bob owes Alice: 25.00
-Bob owes Charlie: 25.00
+Alice owes Charlie: 30.00
+Bob owes Charlie: 50.00
+Alice owes Bob: 5.00
 
 Summary of Bill Settlement for Lunch:
-Alice owes Bob: 60.00
-Alice owes Charlie: 60.00
-Bob owes Alice: 60.00
-Bob owes Charlie: 60.00
+Alice owes Bob: 65.00
+Alice owes Charlie: 30.00
+Bob owes Charlie: 50.00
 
-Overall Summary of Bill Settlement:
-Alice owes Bob: 25.00
-Alice owes Charlie: 25.00
-Bob owes Alice: 25.00
-Bob owes Charlie: 25.00
-Charlie owes Alice: 25.00
-Charlie owes Bob: 25.00
+==========================================================Overall Summary of Bill Settlement:==========================================================  
+Bob owes Charlie: 50.00
+Alice owes Bob: 65.00
+Alice owes Charlie: 30.00
 ```
 
 ### Unit Tests
